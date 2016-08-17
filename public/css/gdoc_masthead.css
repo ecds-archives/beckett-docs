@@ -15,3 +15,11 @@
 .sidebar-toggle {
   top:  .3rem;
 }
+
+.pagination {
+  display: none;
+}
+
+.post-date {
+  display: none;
+}

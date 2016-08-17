@@ -6,7 +6,9 @@ title: Workflow Documents
 
 <div class="message">
   <p>Here are all the documents and spreadsheets for the Beckett Letters linked data project.</p>
-  <p>Click the links below to access within this site or the window icon to open in a separate tab. You can also access links in a hidden sidebar from the icon in the upper right corner of the navigation bar.</p>
+  <p>Click the links below to access documents within this website. You can also access links in a hidden sidebar using the icon in the upper right corner of the navigation bar.</p>
+  <p>If you prefer to open the documents as separate tabs outside of this website, click the window icon.</p>
+  <p></p>
 </div>
 
 
